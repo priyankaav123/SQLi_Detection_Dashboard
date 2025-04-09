@@ -1,0 +1,25 @@
+{
+    "captcha": {
+        "enabled": true,
+        "trigger_threshold": 2
+    },
+    "rate_limiting": {
+        "enabled": true,
+        "max_attempts": 3,
+        "window_minutes": 5
+    },
+    "two_factor": {
+        "enabled": true,
+        "method": "email"
+    },
+    "password_policy": {
+        "min_length": 8,
+        "require_special": true,
+        "require_numbers": true,
+        "require_uppercase": true
+    },
+    "session": {
+        "timeout_minutes": 28,
+        "remember_me_days": 7
+    }
+}
