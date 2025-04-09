@@ -1,0 +1,19 @@
+All Rights Reserved
+
+Copyright © 2025 Priyankaa Vijay
+
+This software and its source code are protected under international copyright laws.
+
+Permission to view the code is granted for **educational and reference purposes only**.
+
+You may not:
+- Copy or reproduce the code
+- Modify or create derivative works
+- Distribute or share the code
+- Use the code in any commercial or non-commercial product
+- Rebrand or claim ownership of the code
+
+Unauthorized use of this project, in whole or in part, is strictly prohibited and may result in legal action.
+
+For licensing or collaboration inquiries, contact: priyankaavijay04@gmail.com
+
