@@ -12,4 +12,12 @@ pip install numpy, pandas, flask, scikit-learn, flask_cors, flask_sqlalchemy, fl
 In conclusion, the Real-time SQLi Monitoring and Detection Dashboard offers a significant advancement in addressing the persistent threat of SQL injection attacks on database-driven applications. This innovative solution bridges a critical gap in cybersecurity infrastructure by shifting from reactive post-attack analysis to proactive real-time detection and response. By integrating pattern-based REGEX matching with comprehensive visualization tools, the system enables security administrators to identify, analyze, and mitigate SQLi threats as they emerge, substantially reducing vulnerability windows.
 The three-component architecture—combining a Flask backend for detection, a React-based vulnerable testbed for simulation, and an intuitive dashboard for monitoring—provides organizations with both practical security enhancement and valuable educational insights. Empirical testing demonstrates the system's effectiveness in detecting various SQLi attack vectors while maintaining performance efficiency. Future work could expand this framework to incorporate machine learning for improved pattern recognition. This solution not only strengthens organizational defense against one of the most prevalent web application vulnerabilities but also aligns with evolving cybersecurity best practices that emphasize real-time threat intelligence and visualization in security operations.
 
+# LICENSE 
+
+This project is protected under **All Rights Reserved**.
+
+You are **not permitted** to copy, use, modify, distribute, sublicense, or rebrand any part of this codebase, in whole or in part, without **explicit written permission** from the author.
+
+© 2025 Priyankaa Vijay. All rights reserved.
+
 
